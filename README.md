@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranto Mollick</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer | Passionate Problem Solver from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prantomollick&label=Profile%20views&color=0e75b6&style=flat" alt="prantomollick" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Full-Stack-E-Commerce-Dashboard-CMS](https://github.com/PrantoMollick/Full-Stack-E-Commerce-Dashboard-CMS)
 
-- 🌱 I’m currently learning **PHP, wordpress**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrantoMollick](https://github.com/PrantoMollick)
 
